@@ -12,6 +12,7 @@
 5. Long Term Goals
 8. Development Plan
 3. Conferences
+26. Add space to put record in repo
 2. Review Pete's Organization Scheme
 10. Individual project details (probably next time)
   * Open Data Lab
