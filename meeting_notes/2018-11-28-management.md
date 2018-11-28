@@ -1,0 +1,22 @@
+# Initial startup Meeting
+
+## Attendees
+* Claudia (cws3v)
+* Pete (lpa2a)
+
+## Agenda
+1. Review Pete's Job Description
+6. Formal Review Process (HR / Lead@ system)
+7. Informal Review Process
+4. Short Term Goals
+5. Long Term Goals
+8. Development Plan
+3. Conferences
+2. Review Pete's Organization Scheme
+10. Individual project details (probably next time)
+  * Open Data Lab
+  * Physics Program
+  * Mental Health / Community Program (urban)
+  * Independent Study
+  * Library Partnership (libra,RDS,data working group)
+  * DSI HPC beyond Open Data Lab
