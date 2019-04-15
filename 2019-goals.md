@@ -1,0 +1,7 @@
+## HR Goals
+1. Open Data Lab Work
+This goal is to continue work managing the Open Data Lab project. Facilitating research through technology  tools and education  is the method. The specific deliverable for this goal  is an annual report (calendar year) covering the full scope of the project.
+2. Research projects
+Participate in research projects. Currently there are two projects for this goal. The first is funded by the Governor of Virginia and is inderdisciplinary with the Physics Department and visualization professionals from Wilson Hall. This year the specific deliverable is planning funding for a summer institute to be hosted at UVA and research products produced by said institute. Iffurther funded then work would continue.  The second is a community research effort  led by Neal Goodloe. It studies how  the criminal justice system in the Charlottesville area handles mental illness and how people flow through the system and back into the population. The main deliverable is the paper to the SIEDS conference and presentations to community boards. This project is a student project and the role of this position is as a faculty advisor.
+3. DSI Service
+Apply skills to help the Data Science Institute achive the goal  of being #1. Serving as chair of the Open Working Group is an example of this goal. There are various other tasks that will arise.
