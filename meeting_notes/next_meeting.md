@@ -2,7 +2,7 @@
 
 ## New Business
 ### Plan for the future
-### follow up from today's tjach meeting
+### follow up from today's tjach meeting (in particular, data agreements)
 
 
 
