@@ -2,6 +2,7 @@
 
 ## New Business
 ### Plan for the future
+### follow up from today's tjach meeting
 
 
 
