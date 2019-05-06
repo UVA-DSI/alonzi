@@ -10,6 +10,8 @@
   * what am I best at? worst at?
   * load balancing and strategic goals
 ### DSI development vs. operations
+### morale and 5/13-17
+### 7/4-15
 
 
 ## Old Business
