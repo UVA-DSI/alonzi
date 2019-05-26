@@ -12,6 +12,7 @@
 ### DSI development vs. operations
 ### morale and 5/13-17
 ### 7/4-15
+### Portfolio evaluation
 
 
 ## Old Business
