@@ -11,7 +11,7 @@
   * load balancing and strategic goals
 ### DSI development vs. operations
 ### morale and 5/13-17
-### 7/4-15
+### 7/5-15 vacation
 ### Portfolio evaluation
 
 
