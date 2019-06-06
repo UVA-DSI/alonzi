@@ -13,6 +13,8 @@
 ### morale and 5/13-17
 ### 7/5-15 vacation
 ### Portfolio evaluation
+### Progress reports
+### We can't have these emails
 
 
 ## Old Business
