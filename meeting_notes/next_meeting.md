@@ -15,6 +15,8 @@
 ### Portfolio evaluation
 ### Progress reports
 ### We can't have these emails
+* "really need you to"
+* three emails saying the same thing
 
 
 ## Old Business
